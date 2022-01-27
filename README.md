@@ -5,6 +5,7 @@ Please click on the links below to launch the interactive notebooks.
 
 Session 1: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/climatom/RiskAnalysis/master?labpath=Risk%201.ipynb)
 
+Session 2: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/climatom/RiskAnalysis/main?labpath=Risk%202.ipynb)
 
 
 Please direct any questions to tom[dot]matthews[at]kcl[dot]ac[dot]uk
