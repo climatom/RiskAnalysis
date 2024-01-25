@@ -4,7 +4,7 @@ pandas
 datetime
 netCDF4
 requests
-sklearn
+scikit-learn
 scipy
 xarray
 pyPI
